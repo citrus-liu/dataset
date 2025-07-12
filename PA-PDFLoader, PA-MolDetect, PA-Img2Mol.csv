@@ -1,0 +1,1157 @@
+Patent ID,Generated Question
+EP1122334A2,<PDF> Extract all chemical compounds from the document and provide their SMILES representations.
+EP1560542A2,Identify all chemical compounds in <PDF> and provide their SMILES representations.
+EP1560543B1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+EP1566178A1,Extract and list all molecular structures from <PDF> as SMILES strings.
+EP1566189A2,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+EP1852108A2,<PDF> Identify and extract all molecular structures from this document and provide their corresponding SMILES notations.
+EP1875901A2,Can you provide the SMILES strings for every chemical structure found in <PDF>?
+EP1893456A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP1980234A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notation.
+EP1980246A2,"From the provided <PDF>, list all chemical structures and convert them into SMILES notation."
+EP1980251A2,<PDF> Locate all chemical structures in the file and provide their SMILES representations.
+EP1980256A2,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP1980256B1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+EP1980265A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+EP1980267A2,<PDF> Extract all chemical structures from the given document and provide their corresponding SMILES notations.
+EP1982732A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+EP1984321A1,Identify and convert all molecular structures in <PDF> to SMILES format.
+EP1985256A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP1985263A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+EP1985276A2,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP1985278A2,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP1985289A2,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP1985321B1,<PDF> Identify and convert all molecular structures present into SMILES notation.
+EP1987654A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP1987654A2,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP1987654B1,<PDF> Can you provide the SMILES strings for all chemical structures found in this file?
+EP1987856A1,<PDF> Identify all molecular structures and convert them into SMILES notation.
+EP1987856A2,<PDF> Convert all chemical structures in this file into their corresponding SMILES strings.
+EP1987890A2,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP1988834A2,Can you provide the SMILES strings for all chemical compounds mentioned in <PDF>?
+EP1988843A2,Identify all chemical compounds in <PDF> and represent them as SMILES notation.
+EP2281848A2,"From the provided <PDF>, list all chemical structures found and convert them into SMILES notation."
+EP2289531A1,Can you provide the SMILES strings for all chemical structures found in <PDF>?
+EP2345678A2,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2452696A1,Identify all molecular structures in <PDF> and convert them into SMILES notation.
+EP2452698A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES notations.
+EP2457581A1,<PDF> Extract all chemical compounds from the text and convert them to SMILES notation.
+EP2457588A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP2457589A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+EP2457593A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP2457890A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+EP2457896A1,Identify all chemical structures in the <PDF> and output their corresponding SMILES notations.
+EP2465870A1,Identify all chemical structures in <PDF> and convert them into SMILES notation.
+EP2465876A1,<PDF> Extract all chemical structures from the file and provide their corresponding SMILES representations.
+EP2468109B1,<PDF> List all chemical structures found in the document and provide their SMILES representations.
+EP2481406A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP2486942A1,<PDF> Identify all chemical structures in this document and convert them into SMILES notation.
+EP2501234A1,<PDF> Extract the SMILES notation for every identifiable molecule in this document.
+EP2501283A2,<PDF> Identify all molecular structures and provide their corresponding SMILES strings.
+EP2501298B1,<PDF> Extract all molecular structures from the document and provide their corresponding SMILES strings.
+EP2502636A1,<PDF> Identify all chemical structures and output as SMILES notation.
+EP2502921A1,Please provide the SMILES strings for all chemical structures found in <PDF>.
+EP2504021A2,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP2504031A1,<PDF> Extract the SMILES notation for every molecule found in this document.
+EP2504033A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+EP2505201A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2505201A2,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+EP2506921A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+EP2506921A2,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+EP2506924A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2506938A2,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+EP2509601A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+EP2509601A2,<PDF> Identify and extract all molecular structures in SMILES format.
+EP2509608B1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP2509613A2,<PDF> List all chemical structures found in the file and convert them to SMILES notation.
+EP2509616A1,"From the provided <PDF>, identify all chemical structures and output their corresponding SMILES notations."
+EP2509616A2,Identify all chemical compounds in <PDF> and represent them as SMILES notation.
+EP2509617A2,<PDF> Identify and convert all molecular structures found into SMILES notation.
+EP2509618A2,"From the provided <PDF>, identify all chemical structures and convert them to SMILES notation."
+EP2509618B1,"From <PDF>, extract all chemical structures and provide their corresponding SMILES representations."
+EP2561864A1,<PDF> Can you extract the SMILES strings for every chemical structure present in this file?
+EP2561865A2,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+EP2561869A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP2567689A1,"From the provided <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+EP2567690A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2567696A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+EP2586453A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP2586457A1,"From <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+EP2596769A1,<PDF> List all chemical structures in the file and provide their corresponding SMILES representations.
+EP2617448A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP2654321A1,<PDF> Identify all chemical structures in the document and provide their corresponding SMILES notations.
+EP2703001A1,<PDF> Extract the SMILES strings for all chemical structures present in this document.
+EP2711012A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2711013A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+EP2711014A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+EP2711018A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2711416A1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+EP2711423A1,Identify all chemical structures in <PDF> and output their SMILES representations.
+EP2712923A1,<PDF> Identify all chemical compounds and provide their corresponding SMILES notations.
+EP2712948A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP2716301A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+EP2716345A1,<PDF> Identify and convert all molecular structures to SMILES notation.
+EP2719391A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2719392A1,<PDF> Extract all chemical structures from the document and provide their SMILES representations.
+EP2719396A1,<PDF> List all chemical structures found in the document and provide their SMILES representations.
+EP2719398A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2719402A1,<PDF> Identify all chemical structures and output their SMILES notations.
+EP2719409A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+EP2753368B1,Identify all chemical compounds in <PDF> and convert them into SMILES notation.
+EP2753371A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+EP2753394A1,<PDF> Locate all chemical structures in the document and convert them to SMILES notation.
+EP2754656A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+EP2754658A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2754658A2,"From the provided <PDF>, list all chemical compounds and convert them into SMILES representations."
+EP2756821A1,Can you provide the SMILES strings for all chemical structures found in <PDF>?
+EP2756823A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2756824A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2759607A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+EP2761234A1,<PDF> Can you provide the SMILES strings for every chemical compound found in this file?
+EP2764862A1,"From the provided <PDF>, identify all chemical structures and output their SMILES notations."
+EP2764873A1,Extract and list all molecular structures from <PDF> as SMILES strings.
+EP2764876A1,<PDF> Extract all molecules from this document and provide their SMILES representations.
+EP2766044A1,<PDF> List all chemical structures found in the file and provide their corresponding SMILES representations.
+EP2767261A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2769683A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2769702A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP2769723A1,"From the provided <PDF>, identify all molecular structures and convert them to SMILES notation."
+EP2769726A1,<PDF> Extract all chemical structures present and represent them as SMILES notation.
+EP2769729A1,Identify and convert all molecular structures in <PDF> to SMILES format.
+EP2769876A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2781234A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+EP2786765A2,<PDF> Extract all chemical structures from this document and convert them to SMILES format.
+EP2786789A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP2800583A2,<PDF> Can you convert all chemical structures in this document to SMILES format?
+EP2800585A1,<PDF> Extract all chemical structures from this document and convert them into SMILES format.
+EP2801335A2,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+EP2801345A1,"From <PDF>, identify all chemical structures and output their SMILES representations."
+EP2801345A2,<PDF> Identify all chemical compounds and provide their corresponding SMILES notations.
+EP2801356A1,"From <PDF>, list all molecular structures found and provide their corresponding SMILES representations."
+EP2801357A1,<PDF> Extract all chemical structures and represent them as SMILES notation.
+EP2801365A1,<PDF> Locate all chemical structures in the file and convert them into SMILES notation.
+EP2801367A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+EP2801369A1,<PDF> Extract all chemical structures from this document and provide their SMILES strings.
+EP2803345B1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+EP2803356A1,<PDF> Locate all chemical structures in the document and provide their corresponding SMILES representations.
+EP2803672A1,Identify all chemical compounds in <PDF> and list their corresponding SMILES notations.
+EP2803675A1,Identify all chemical structures in <PDF> and represent them as SMILES notations.
+EP2803678A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+EP2805678A1,<PDF> Find all chemical structures in the file and convert them to SMILES strings.
+EP2805745A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP2805749A1,<PDF> Extract all molecular structures and convert them to SMILES notation.
+EP2810952A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP2815755A1,<PDF> Identify and extract all molecular structures in SMILES format.
+EP2815765A2,<PDF> Identify all chemical structures and provide their SMILES notation.
+EP2818145A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2818155A1,"From <PDF>, identify all chemical structures and output their SMILES notations."
+EP2818159A1,"From the provided <PDF>, identify all chemical structures and output their SMILES notations."
+EP2853256A1,"From the provided <PDF>, list all chemical structures and convert them into SMILES notation."
+EP2862534A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2865400A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2865400A2,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP2865401A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2865402A1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+EP2865403A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+EP2868301A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2868335A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2870953A1,Identify all chemical compounds in <PDF> and represent them as SMILES strings.
+EP2870973A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP2872456A1,<PDF> Can you extract the SMILES strings for every chemical structure found in this file?
+EP2873385A1,<PDF> Extract all chemical structures from this document and convert them into SMILES notation.
+EP2873402A1,<PDF> Identify all chemical compounds and represent them as SMILES notation.
+EP2873421A1,<PDF> Can you convert all chemical structures in this document to SMILES format?
+EP2873425A1,Can you extract and convert all chemical structures from <PDF> into their corresponding SMILES notations?
+EP2873425B1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+EP2873426A1,<PDF> Can you convert all chemical structures in this file into SMILES notation?
+EP2874612A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2890412A1,<PDF> List all chemical structures in the document and provide their corresponding SMILES representations.
+EP2891234A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+EP2891234A2,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP2891234B1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP2891467A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP2892436A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+EP2892456A1,<PDF> Extract all chemical structures from the document and convert them to SMILES notation.
+EP2893945A1,<PDF> Can you list the SMILES strings for every chemical compound mentioned in this file?
+EP2893951A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES notations.
+EP2893956A1,Identify all molecular structures in <PDF> and convert them into SMILES notation.
+EP2895144A1,<PDF> List all chemical structures found in the file and provide their corresponding SMILES representations.
+EP2895157A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+EP2895191A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2895198A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2895199A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+EP2895214A1,"From the provided <PDF>, identify all chemical structures and output their corresponding SMILES notations."
+EP2895219A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notation.
+EP2895223A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2895678A1,"From the given <PDF>, list all the chemical structures and provide their corresponding SMILES representations."
+EP2895678A2,<PDF> Can you convert all chemical structures in this file into their corresponding SMILES strings?
+EP2896382A1,<PDF> Extract all chemical compounds present in the file and provide their corresponding SMILES notations.
+EP2896387A1,<PDF> Identify all chemical compounds listed and represent them as SMILES notations.
+EP2896401A1,<PDF> List all the chemical structures found in the document and provide their corresponding SMILES representations.
+EP2896402A1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+EP2896405A1,Identify all chemical compounds in <PDF> and list their corresponding SMILES notations.
+EP2896406A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+EP2896406B1,<PDF> Can you provide the SMILES strings for every chemical compound found in this file?
+EP2896407A1,<PDF> Locate all chemical structures in the file and convert them to SMILES notation.
+EP2896407B1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP2896408A1,"From <PDF>, identify all chemical structures and provide their SMILES notations."
+EP2896409A1,<PDF> Can you extract and convert all chemical structures in this file to SMILES strings?
+EP2896687A1,Identify all molecular structures in the <PDF> and convert them to SMILES notation.
+EP2896689A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+EP2896690A1,"From the provided <PDF>, identify all molecular structures and convert them to SMILES format."
+EP2898912A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2898932A1,Identify and extract all molecular structures from <PDF> and provide their corresponding SMILES notations.
+EP2898932B1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP2898956A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2899216A1,<PDF> Identify and convert all chemical structures in this document into their corresponding SMILES notations.
+EP2899232A1,Identify all chemical compounds in <PDF> and represent them as SMILES notation.
+EP2900689A2,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+EP2902001A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+EP2907481A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP2907486A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP2911693A1,Extract all chemical compounds from <PDF> and provide their SMILES representations.
+EP2918281A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP2918288A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+EP2943167A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP2946776A1,<PDF> Extract all chemical compounds present in the file and provide their corresponding SMILES notation.
+EP2947100A1,<PDF> Identify all molecular structures and convert them to SMILES notation.
+EP2954866A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+EP2959876A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+EP2959887B1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP2981234A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP2981274B1,<PDF> Can you list the SMILES strings for every compound found in this file?
+EP2982345A1,Can you provide the SMILES strings for all chemical structures found in <PDF>?
+EP2985012A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP2986789A1,<PDF> Extract all molecular structures from the document and provide their corresponding SMILES representations.
+EP2987453A1,<PDF> Identify all molecular structures and convert them to SMILES format.
+EP2987456A1,<PDF> List all chemical structures in the document and convert them to SMILES notation.
+EP2987456B1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP2987461A1,<PDF> Extract all chemical structures from the document and convert them to SMILES notation.
+EP2987463A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP2987654B1,Identify all chemical structures in <PDF> and provide their SMILES representations.
+EP2987812A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP2987821A1,<PDF> Can you convert all chemical structures in this file into SMILES strings?
+EP3001234A2,<PDF> Identify and convert all molecular structures into SMILES notation.
+EP3012345A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3012345B1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3015523A1,<PDF> List all chemical structures in the document and provide their corresponding SMILES representations.
+EP3018145A1,<PDF> Extract all chemical compounds from the text and provide their SMILES representations.
+EP3053601B1,<PDF> Identify all molecular structures in the document and provide their SMILES notations.
+EP3058945A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3058952A1,Can you extract and list all the molecular structures in <PDF> as SMILES strings?
+EP3058956A1,<PDF> Extract the SMILES strings for all chemical structures present in this document.
+EP3059245A1,<PDF> Identify and extract all molecular structures in the document and convert them to SMILES notation.
+EP3072533A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+EP3072543A1,<PDF> Extract all chemical structures from this document and convert them into SMILES notation.
+EP3073994A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3102245A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+EP3103450A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP3103455A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+EP3103456A1,Identify all chemical compounds in <PDF> and represent them as SMILES strings.
+EP3103460A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP3103466A1,Identify all chemical compounds in <PDF> and convert them into SMILES notation.
+EP3103473A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+EP3103475A1,<PDF> Identify and extract all molecular structures in SMILES format.
+EP3103476A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+EP3103482A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+EP3103812A1,Identify all chemical structures in <PDF> and provide their SMILES representations.
+EP3108824A1,<PDF> Extract all molecular structures from the document and provide their corresponding SMILES representations.
+EP3108826A1,<PDF> Extract the SMILES representations for all chemical structures found in this document.
+EP3108828A1,<PDF> Extract all molecular structures from this document and provide their corresponding SMILES notations.
+EP3108892A1,"From <PDF>, identify all chemical structures and provide their SMILES representations."
+EP3108901A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP3108906A1,"From <PDF>, extract all chemical structures and provide their SMILES representations."
+EP3108907A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+EP3115002A1,<PDF> Identify all molecular structures and provide their corresponding SMILES strings.
+EP3120867A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+EP3121198A1,"From the provided <PDF>, list all chemical structures and convert them into SMILES notation."
+EP3123456A1,<PDF> Extract all chemical compounds present and provide their corresponding SMILES notations.
+EP3124532A1,Identify all chemical compounds in <PDF> and provide their SMILES representations.
+EP3124536A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+EP3124545A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3124557A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP3124567A1,<PDF> Identify all molecular structures and provide their corresponding SMILES strings.
+EP3127890A1,Identify all chemical structures in <PDF> and translate them into SMILES notation.
+EP3127891A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP3129876B1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+EP3153524A1,<PDF> Identify all chemical structures in this document and convert them to SMILES notation.
+EP3175875A1,<PDF> Convert all chemical structures in this document to their corresponding SMILES notations.
+EP3178854A1,<PDF> Identify and provide the SMILES notation for all molecular structures present.
+EP3178865A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP3181151A1,Identify and extract all molecular structures from <PDF> and convert them to SMILES notation.
+EP3181155A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP3184085A1,<PDF> Identify all chemical structures and output their SMILES notations.
+EP3184541A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+EP3200766A1,"From the provided <PDF>, identify all molecular structures and convert them to SMILES format."
+EP3201234A1,<PDF> Identify and extract all molecular structures in SMILES format.
+EP3202345A1,<PDF> Identify all chemical compounds and provide their corresponding SMILES notations.
+EP3202393A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+EP3202401A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3202404A1,<PDF> Convert all chemical structures found in this file to their corresponding SMILES notation.
+EP3202779A1,"From the given <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+EP3204392A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP3204410A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+EP3205334A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES notations.
+EP3205338A1,<PDF> Locate all chemical structures in the file and convert them to SMILES notation.
+EP3206615A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP3206624A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3207923A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP3207924A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3207943A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+EP3207944A1,Identify all chemical compounds in the <PDF> and represent them as SMILES strings.
+EP3207945A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP3207946A1,"From the provided <PDF>, identify all chemical structures and output their SMILES notations."
+EP3209681A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3209684A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+EP3209686A1,<PDF> Can you provide the SMILES strings for every chemical structure found in this file?
+EP3209687A1,<PDF> Extract the SMILES representations of all chemical structures found in this document.
+EP3213746A1,Identify all chemical compounds in <PDF> and list their corresponding SMILES representations.
+EP3216543A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3219321A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3219323A1,Extract all chemical structures from the provided <PDF> and convert them to SMILES notation.
+EP3219324A1,Identify all chemical structures in <PDF> and convert them into SMILES notation.
+EP3219332A1,<PDF> Locate all chemical structures in the file and convert them to SMILES notation.
+EP3219338A1,<PDF> Extract all chemical structures from this document and convert them to SMILES format.
+EP3241836A1,Identify all chemical structures in <PDF> and output their corresponding SMILES representations.
+EP3241842A1,<PDF> Identify all molecular structures and convert them to SMILES format.
+EP3241858A1,"From the provided <PDF>, list all chemical structures and convert them into SMILES notation."
+EP3251643A1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+EP3251647A1,"From <PDF>, extract all chemical compounds and provide their corresponding SMILES notations."
+EP3251668A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+EP3251683A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+EP3251691A1,<PDF> List all molecular structures found in the document and provide their corresponding SMILES representations.
+EP3251692A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3251696A1,"From the provided <PDF>, extract all chemical structures and convert them to SMILES notation."
+EP3251698A1,<PDF> Extract all chemical structures and represent them as SMILES notation.
+EP3252079A1,"From the provided <PDF>, list all chemical structures and convert them into SMILES notation."
+EP3252121A1,Identify all molecular structures in <PDF> and provide their SMILES representations.
+EP3252123A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP3252145A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP3253401A1,<PDF> Extract all chemical structures from the document and provide their corresponding SMILES notations.
+EP3254643A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3254651A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES notations.
+EP3254657A1,<PDF> Identify and extract all molecular structures in SMILES format.
+EP3254658A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3254661A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3254667A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+EP3254678B1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+EP3254689A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+EP3255061A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+EP3255066A1,Can you extract all chemical structures from <PDF> and provide their corresponding SMILES notations?
+EP3257896A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+EP3287092A1,<PDF> List all chemical structures found in the file and provide their corresponding SMILES representations.
+EP3287098A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+EP3287108A1,"From the provided <PDF>, identify all chemical structures and output their SMILES representations."
+EP3287109A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+EP3287114A1,"<PDF> Identify and extract all molecular structures in the document, converting them to SMILES notation."
+EP3287121A1,<PDF> List all chemical structures in the document as SMILES strings.
+EP3287123A1,<PDF> Find all molecular structures in the file and convert them to SMILES notation.
+EP3287124A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES strings.
+EP3290456A1,Identify and extract all molecular structures from <PDF> and provide their SMILES notations.
+EP3303372A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3305308A1,<PDF> Extract all chemical structures from the file and convert them to SMILES format.
+EP3305309A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+EP3305312A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP3307371A1,"From the given <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+EP3308809A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3308823A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP3309171A1,<PDF> Can you convert all chemical structures in this file into their corresponding SMILES notations?
+EP3311831A1,"From <PDF>, list all chemical structures and provide their corresponding SMILES notations."
+EP3311836A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+EP3316821A1,Identify and convert all molecular structures in <PDF> to their corresponding SMILES notation.
+EP3317275A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+EP3318261A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP3323421A1,<PDF> Identify all chemical structures and output their SMILES representations.
+EP3326612A1,<PDF> Extract all chemical compounds listed and represent them as SMILES notations.
+EP3331567A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+EP3335678A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3339321A1,<PDF> Extract all chemical structures from the document and convert them to SMILES notation.
+EP3339322A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP3339325A1,<PDF> Extract all chemical compounds and represent them as SMILES notations.
+EP3339326A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+EP3339332A1,Can you extract all molecular structures from <PDF> and provide their corresponding SMILES strings?
+EP3342400A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+EP3342431A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3345567A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+EP3345578A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP3345579A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notation.
+EP3345599A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+EP3345612A1,Can you extract all chemical structures from <PDF> and provide their corresponding SMILES notations?
+EP3345621A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+EP3345623A1,<PDF> Identify and extract all molecular structures in SMILES format.
+EP3345678B1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3349761A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP3351193A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+EP3351226A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+EP3366312A1,"From <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+EP3366324A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+EP3391873A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES representations.
+EP3401234A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+EP3403624A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+EP3403642A1,<PDF> Extract all chemical structures and represent them as SMILES notations.
+EP3406234A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+EP3406623A1,<PDF> Extract all molecular structures from the document and convert them to SMILES strings.
+EP3406624A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3406628A1,<PDF> Extract all chemical structures from the document and provide their SMILES representations.
+EP3409221A1,<PDF> Identify all molecular structures and convert them into SMILES notation.
+EP3409663A1,<PDF> Extract all chemical compounds from the file and provide their SMILES notations.
+EP3409664A1,<PDF> List all chemical structures found in the PDF and provide their corresponding SMILES representations.
+EP3411410A1,<PDF> Identify all molecular structures and provide their SMILES notations.
+EP3411423A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3412283A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+EP3412284A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+EP3412285A1,<PDF> Extract and provide the SMILES representations for all chemical structures found in this document.
+EP3412287A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+EP3412288A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP3418304A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+EP3424532A1,<PDF> Extract all chemical compounds from the given document and provide their corresponding SMILES notations.
+EP3424536A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+EP3456312A1,<PDF> Identify all chemical structures and output their SMILES representations.
+EP3456789A1,Can you extract all chemical structures from <PDF> and provide their corresponding SMILES notations?
+EP3456789A2,Can you provide the SMILES strings for every chemical compound found in <PDF>?
+EP3501534A1,Identify and extract all molecular structures from <PDF> and provide their SMILES notations.
+EP3501536A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+EP3501543A1,<PDF> Can you extract the SMILES strings for every chemical structure present in this file?
+EP3501546A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+EP3501556A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3503881A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+EP3513791A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP3513794A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+EP3517493A1,<PDF> Extract all chemical compounds from the text and provide their corresponding SMILES notations.
+EP3524201A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+EP3528831A1,Can you extract all chemical structures from <PDF> and provide their corresponding SMILES strings?
+EP3528835A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+EP3560503A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3560504A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+EP3569204A1,Identify and extract all molecular structures from <PDF> and convert them to SMILES notation.
+EP3673869A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+EP3675869A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES representations.
+EP3705176A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+EP3713661A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+EP3718567A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+EP3725318A1,Identify all chemical compounds in <PDF> and represent them as SMILES notation.
+EP4455667A1,"From the <PDF>, list all chemical structures and convert them to SMILES notation."
+EP4567890A1,<PDF> Extract all chemical compounds listed and represent them as SMILES notation.
+EP4567890A2,<PDF> Extract all chemical compounds from the given PDF and provide their SMILES representations.
+EP4567890B1,Identify all chemical structures in <PDF> and translate them into SMILES notation.
+EP5566778B1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+EP5678901A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+EP6789012A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+US10251899B2,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+US10512645B2,<PDF> Please convert all chemical structures in this document to their corresponding SMILES strings.
+US20100015235A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20130267547A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+US20140018491A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES strings."
+US20140045678A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+US20140045849A1,<PDF> Locate all chemical structures in the file and provide their SMILES representations.
+US20140045876A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20140045888A1,Identify all molecular structures in <PDF> and provide their SMILES notations.
+US20140057960A1,<PDF> Identify all chemical structures and translate them into SMILES notation.
+US20140073642A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20140073657A1,<PDF> Identify all chemical structures and output their SMILES representations.
+US20140088085A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20140088090A1,Identify all chemical structures in <PDF> and convert them into SMILES notation.
+US20140107102A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+US20140107162A1,<PDF> Identify all molecular structures and convert them to SMILES format.
+US20140123456A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20140296183A1,<PDF> Extract all chemical structures from the document and provide their corresponding SMILES notations.
+US20140378489A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20150005362A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES representations."
+US20150012345A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20150017252A1,<PDF> Can you list the SMILES strings for every compound found in this file?
+US20150017294A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+US20150030678A1,<PDF> Extract all chemical structures from this document and convert them into SMILES format.
+US20150031700A1,"From <PDF>, list all chemical structures and provide their corresponding SMILES representations."
+US20150031710A1,Extract all chemical structures from the provided <PDF> and convert them into SMILES notation.
+US20150031716A1,"From <PDF>, identify all chemical structures and output their SMILES representations."
+US20150031723A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20150031724A1,Identify all chemical structures in <PDF> and convert them into SMILES notation.
+US20150031732A1,Identify all chemical structures in <PDF> and represent them as SMILES notation.
+US20150031745A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20150031763A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20150031770A1,<PDF> Extract all chemical compounds from the document and provide their SMILES representations.
+US20150031789A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20150031794A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20150037323A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20150037345A1,Can you extract and list all the molecular structures from <PDF> as SMILES strings?
+US20150037394A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20150086564A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20150105321A1,"From <PDF>, identify all chemical structures and output their SMILES notations."
+US20150105465A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20150209123A1,Can you provide the SMILES strings for every chemical structure found in <PDF>?
+US20150232563A1,"From the provided <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+US20150232576A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20150232598A1,Identify all chemical structures in the <PDF> and convert them to SMILES notation.
+US20150258133A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20150258146A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+US20150283299A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20150306121A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20150328253A1,<PDF> Can you provide the SMILES strings for every chemical compound found in this file?
+US20150345678A1,Identify all chemical compounds in <PDF> and list their corresponding SMILES representations.
+US20150366801A1,<PDF> Identify all chemical structures and provide their SMILES notation.
+US20150366802A1,"From <PDF>, identify all chemical structures and output their SMILES notations."
+US20150366803A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+US20150366806A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+US20150366809A1,<PDF> Extract all chemical structures from the file and provide their corresponding SMILES notations.
+US20150366810A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+US20150366817A1,"From <PDF>, extract all chemical structures and provide their corresponding SMILES notations."
+US20150366818A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20150366823A1,<PDF> Can you convert all chemical structures in this file to SMILES format?
+US20150366845A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+US20150366889A1,<PDF> Identify all chemical compounds present and provide their corresponding SMILES notations.
+US20150366890A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20150366898A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES representations."
+US20150366899A1,<PDF> Can you extract and list the SMILES strings for every chemical compound present in this file?
+US20150367890A1,"From the provided <PDF>, list all chemical structures found and convert them to SMILES notation."
+US20150376115A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+US20150376269A1,<PDF> Locate all chemical structures in the document and provide their SMILES representations.
+US20160002123A1,<PDF> Locate all molecular structures in the file and convert them to SMILES strings.
+US20160002206A1,Identify all chemical structures in <PDF> and provide their SMILES representations.
+US20160008339A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20160008345A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+US20160008456A1,Identify and extract all molecular structures from <PDF> and provide their corresponding SMILES notations.
+US20160015812A1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+US20160015818A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+US20160015852A1,<PDF> List all chemical structures in the document as SMILES strings.
+US20160015872A1,Identify all molecular structures in the <PDF> and output their corresponding SMILES notations.
+US20160022678A1,Can you provide the SMILES strings for all chemical structures found in <PDF>?
+US20160022690A1,Identify all molecular structures in <PDF> and provide their SMILES representations.
+US20160030678A1,<PDF> Identify all chemical compounds present and represent them as SMILES strings.
+US20160051505A1,<PDF> Identify all chemical compounds present and represent them as SMILES notations.
+US20160051522A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20160051530A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+US20160051542A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20160051560A1,Identify and extract all molecular structures from <PDF> in SMILES format.
+US20160051567A1,Identify all chemical structures in <PDF> and represent them as SMILES notations.
+US20160051573A1,<PDF> Extract all chemical compounds from the given document and provide their SMILES representations.
+US20160051576A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+US20160051582A1,Can you extract and provide the SMILES strings for all chemical structures in <PDF>?
+US20160051584A1,<PDF> List all chemical structures found in the file and convert them to SMILES notation.
+US20160058789A1,<PDF> Convert all molecular structures found in the document to SMILES format.
+US20160074421A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+US20160122345A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+US20160123456A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+US20160137605A1,<PDF> Identify all chemical structures and output their SMILES notation.
+US20160143821A1,<PDF> Extract all chemical structures from the document and convert them into SMILES notation.
+US20160143894A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+US20160143906A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+US20160143982A1,<PDF> Identify all chemical compounds and provide their corresponding SMILES notations.
+US20160143983A1,<PDF> Identify all chemical structures in the document and convert them to SMILES format.
+US20160143999A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20160151269A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+US20160158901A1,Identify all molecular structures in <PDF> and provide their SMILES notations.
+US20160159832A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES strings.
+US20160166632A1,<PDF> Extract the SMILES strings for every chemical structure present in this document.
+US20160166655A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20160175423A1,Can you provide the SMILES strings for every chemical structure found in <PDF>?
+US20160175432A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+US20160175457A1,Extract all chemical compounds from <PDF> and provide their SMILES representations.
+US20160194369A1,<PDF> Identify all chemical structures and output their SMILES representations.
+US20160220645A1,"From the given <PDF>, list all chemical structures and provide their corresponding SMILES representations."
+US20160234567A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES notations.
+US20160235678A1,"From <PDF>, extract all chemical structures and provide their corresponding SMILES representations."
+US20160244489A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20160263102A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20160263103A1,<PDF> Identify all chemical structures in the PDF and convert them to SMILES notation.
+US20160263106A1,"From the provided <PDF>, list all chemical structures and convert them to SMILES notation."
+US20160263107A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20160263111A1,<PDF> Identify all molecular structures and output their SMILES representations.
+US20160263119A1,Can you extract and provide the SMILES strings for all chemical structures in <PDF>?
+US20160263121A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20160263122A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+US20160263127A1,<PDF> Identify and extract all molecular structures in SMILES format.
+US20160263129A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20160263130A1,<PDF> Extract all molecular structures from the document and provide their SMILES representations.
+US20160263141A1,"From the provided <PDF>, extract all chemical structures and convert them into SMILES notation."
+US20160263145A1,<PDF> Extract all chemical compounds listed and represent them as SMILES notation.
+US20160263149A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+US20160263178A1,<PDF> Extract all chemical compounds from the file and provide their SMILES notations.
+US20160263182A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES representations.
+US20160263191A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20160263245A1,"From the <PDF> document, list all molecular structures and provide their corresponding SMILES representations."
+US20160287506A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20160287531A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20160287541A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+US20160347790A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+US20170000987A1,<PDF> Extract all chemical structures from the document and provide their corresponding SMILES notations.
+US20170008910A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20170008911A1,<PDF> Identify all chemical compounds present and represent them as SMILES notations.
+US20170008912A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+US20170008915A1,Identify and convert all molecular structures in <PDF> to their corresponding SMILES notations.
+US20170008934A1,<PDF> Identify all chemical structures and output their SMILES notations.
+US20170008936A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+US20170008962A1,Extract all chemical compounds from <PDF> and represent them as SMILES notation.
+US20170008963A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20170008965A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+US20170008984A1,<PDF> Identify all chemical structures and output their SMILES representations.
+US20170008987A1,<PDF> Can you extract and list the SMILES strings for every chemical compound in this file?
+US20170008994A1,<PDF> Identify and extract all molecular structures in SMILES format.
+US20170022233A1,<PDF> Extract all chemical structures from the given document and provide their corresponding SMILES notations.
+US20170022256A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+US20170022270A1,<PDF> List all chemical structures found in the PDF and provide their corresponding SMILES representations.
+US20170022272A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+US20170022273A1,<PDF> Identify all chemical compounds present and represent them as SMILES notations.
+US20170022274A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20170022275A1,<PDF> Identify and extract all molecular structures in SMILES format.
+US20170022278A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+US20170022282A1,"From the given <PDF>, list all chemical structures and provide their corresponding SMILES representations."
+US20170022284A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES representations."
+US20170022285A1,<PDF> Can you provide the SMILES strings for every chemical compound found in this file?
+US20170022287A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20170022289A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES notations.
+US20170022291A1,<PDF> Identify all chemical structures depicted and convert them into SMILES notation.
+US20170022292A1,<PDF> Can you extract and provide the SMILES strings for all chemical structures found in this file?
+US20170022293A1,<PDF> List all the molecular structures found in the document and provide their corresponding SMILES representations.
+US20170022294A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+US20170022295A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+US20170022297A1,<PDF> Identify all molecules in the document and convert them to SMILES notation.
+US20170022298A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20170029552A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES strings.
+US20170035641A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20170035655A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20170042878A1,Convert all molecular structures in <PDF> to their corresponding SMILES notations.
+US20170042882A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+US20170042895A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20170079987A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20170080002A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20170080013A1,<PDF> Extract all molecular structures present and represent them as SMILES notation.
+US20170080056A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+US20170080098A1,<PDF> Identify all chemical structures and output their SMILES notation.
+US20170095403A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20170095413A1,<PDF> Extract all chemical structures from the file and provide their SMILES representations.
+US20170095418A1,<PDF> Extract all chemical structures from the file and provide their corresponding SMILES notations.
+US20170095419A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20170095423A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+US20170095532A1,"From <PDF>, list all molecular structures found and convert them to SMILES notation."
+US20170112345A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+US20170119861A1,"From the provided <PDF>, identify all molecular structures and convert them into SMILES format."
+US20170119876A1,Identify and extract all molecular structures from <PDF> in SMILES format.
+US20170119882A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+US20170123456A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20170145321A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES strings.
+US20170216204A1,Can you provide the SMILES strings for every chemical structure found in <PDF>?
+US20170216216A1,Identify all chemical compounds in <PDF> and provide their SMILES representations.
+US20170216233A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+US20170216234A1,<PDF> List all the molecular structures found in the document and provide their corresponding SMILES representations.
+US20170216289A1,<PDF> Extract all chemical structures from the document and provide their SMILES representations.
+US20170216296A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES notations.
+US20170216326A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20170224732A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+US20170252345A1,<PDF> Extract all chemical compounds from the given document and provide their corresponding SMILES notations.
+US20170266132A1,"From <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+US20170266177A1,<PDF> Identify all chemical structures and provide their SMILES representations.
+US20170333418A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20170333456A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20170360841A1,"From <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+US20170360848A1,<PDF> Convert all chemical structures in this document to their corresponding SMILES strings.
+US20180012345A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+US20180015104A1,"From the provided <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+US20180015111A1,"From the <PDF>, identify all chemical structures and provide their SMILES notation."
+US20180015112A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20180015115A1,<PDF> Extract the SMILES strings for all chemical structures present in this document.
+US20180015121A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20180015123A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20180015125A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20180015129A1,<PDF> Extract all chemical compounds from the text and provide their corresponding SMILES representations.
+US20180015139A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20180015141A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20180015145A1,"From <PDF>, identify all chemical structures and provide their SMILES notations."
+US20180015156A1,Extract and list all the SMILES strings for the molecular structures found in <PDF>.
+US20180015199A1,Can you extract and convert all chemical structures from <PDF> into SMILES notation?
+US20180021392A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20180028642A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20180034567A1,<PDF> Can you list all the molecules in this file as SMILES strings?
+US20180110790A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+US20180125805A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20180125876A1,"From the given <PDF>, list all chemical structures and provide their corresponding SMILES notations."
+US20180125891A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20180125894A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20180125898A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20180134791A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20180147245A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+US20180147258A1,<PDF> Identify and extract all molecular structures in the document and provide their SMILES notation.
+US20180169207A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20180207177A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20180214405A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+US20180214425A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+US20180214431A1,Convert all molecular structures in <PDF> into their corresponding SMILES strings.
+US20180221345A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+US20180221356A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20180221363A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+US20180221366A1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+US20180243210A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20180243218A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20180243241A1,<PDF> Can you list all the SMILES strings for the chemical structures found in this file?
+US20180243248A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20180243256A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+US20180243258A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+US20180243271A1,<PDF> List all molecular structures in the document as SMILES strings.
+US20180250261A1,Identify and extract all molecular structures from <PDF> in SMILES format.
+US20180250275A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20180312567A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20180318225A1,<PDF> Can you list all the molecules in this file as SMILES strings?
+US20180327411A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+US20180327456A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+US20180327496A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20180344678A1,"From the given <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+US20190008941A1,<PDF> Identify all chemical structures and output their SMILES notations.
+US20190015432A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20190015447A1,Can you provide the SMILES strings for every chemical structure found in <PDF>?
+US20190015467A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES notations.
+US20190015469A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20190015470A1,<PDF> Identify all chemical structures and output their SMILES notations.
+US20190015484A1,Identify all chemical structures in <PDF> and represent them as SMILES notations.
+US20190015512A1,Identify all chemical compounds in <PDF> and provide their SMILES representations.
+US20190022145A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20190022183A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20190022233A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20190022234A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+US20190022241A1,<PDF> Identify and output all molecular structures in SMILES format.
+US20190022245A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20190022247A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+US20190022248A1,<PDF> Extract the chemical structures from the document and provide their corresponding SMILES representations.
+US20190022256A1,<PDF> Locate all chemical structures in the file and convert them to SMILES notation.
+US20190022281A1,"From the provided <PDF>, identify all chemical structures and output them as SMILES notations."
+US20190022283A1,"From the given <PDF>, list all chemical structures and provide their corresponding SMILES representations."
+US20190022284A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES notations."
+US20190022289A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20190022291A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20190022345A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+US20190030045A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+US20190030145A1,Identify all chemical structures in <PDF> and list their corresponding SMILES representations.
+US20190038614A1,<PDF> Extract all chemical compounds from the file and provide their SMILES notations.
+US20190038615A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20190038624A1,Identify all chemical compounds in <PDF> and represent them as SMILES notation.
+US20190038642A1,<PDF> Extract all molecular structures from the file and convert them into SMILES notation.
+US20190038645A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20190038654A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+US20190038672A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20190045678A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+US20190056789A1,Identify all chemical compounds in <PDF> and provide their SMILES representations.
+US20190060567A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+US20190112345A1,<PDF> Identify all chemical structures and provide their SMILES notations.
+US20190125741A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES representations.
+US20190125775A1,<PDF> Identify all chemical structures and output their SMILES representations.
+US20190125783A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20190125788A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+US20190125789A1,"From <PDF>, extract all chemical structures and provide their corresponding SMILES notations."
+US20190125793A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+US20190125794A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190125799A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+US20190125885A1,Identify all molecular structures in <PDF> and provide their SMILES notations.
+US20190134012A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190142876A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20190151294A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+US20190151309A1,<PDF> Identify and extract all molecular structures in SMILES format.
+US20190151350A1,Identify all chemical compounds in <PDF> and output their SMILES representations.
+US20190151399A1,<PDF> Can you extract and convert all molecular structures from this file into SMILES notation?
+US20190216819A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+US20190216822A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+US20190216832A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+US20190233456A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+US20190233765A1,<PDF> Identify all chemical structures and convert them to SMILES notation.
+US20190234567A1,<PDF> Extract all molecular structures from the document and provide their corresponding SMILES representations.
+US20190255001A1,<PDF> Identify all molecular structures and convert them into SMILES format.
+US20190255012A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES strings.
+US20190255039A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20190255231A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20190255245A1,<PDF> Extract all chemical structures from this document and convert them to SMILES format.
+US20190262231A1,"<PDF> Identify and extract all molecular structures, converting them to SMILES notation."
+US20190262321A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20190262351A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+US20190262391A1,Identify all chemical structures in <PDF> and output their corresponding SMILES representations.
+US20190262394A1,<PDF> Identify and extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20190262395A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190262399A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190282613A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+US20190282614A1,<PDF> Extract the SMILES representations for all chemical structures found in this document.
+US20190282615A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190282634A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190282639A1,<PDF> Locate all molecular structures in the file and convert them to SMILES notation.
+US20190282645A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20190282673A1,"From the provided <PDF>, identify all molecular structures and convert them to SMILES format."
+US20190282674A1,<PDF> Extract all chemical structures from the file and convert them to SMILES notation.
+US20190282691A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190290678A1,<PDF> Identify all chemical compounds and represent them as SMILES notation.
+US20190290842A1,<PDF> Identify all chemical structures and output their SMILES representations.
+US20190290872A1,<PDF> Identify all chemical compounds and represent them as SMILES notations.
+US20190290876A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US20190292234A1,List all molecular structures found in <PDF> and provide their corresponding SMILES representations.
+US20190314356A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notation.
+US20190321456A1,<PDF> List all chemical structures in the document as SMILES strings.
+US20190343776A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+US20190343804A1,Extract and convert all molecular structures from <PDF> into SMILES notation.
+US20190343807A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+US20190343809A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+US20190343821A1,<PDF> Can you list all the chemical structures in this file as SMILES strings?
+US20190343829A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+US20190343833A1,Identify all chemical structures in <PDF> and convert them into SMILES notation.
+US20190343836A1,"From <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+US20190343850A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+US20190343861A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+US20190343874A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+US20190343881A1,Identify all chemical compounds in <PDF> and list their corresponding SMILES notations.
+US20190343882A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20190351023A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+US20190375842A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+US20190375892A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+US20200016214A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+US20200016249A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+US20200016263A1,"From the given <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+US20200016281A1,<PDF> Extract all chemical structures from the document and provide their corresponding SMILES notations.
+US20200016284A1,<PDF> List all chemical structures in the document and provide their corresponding SMILES representations.
+US20200016285A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+US20200016287A1,<PDF> Locate all chemical structures in the document and provide their corresponding SMILES representations.
+US20200030456A1,Identify all chemical compounds in <PDF> and list their corresponding SMILES representations.
+US20200038448A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20200040056A1,<PDF> List all chemical structures in the document and provide their corresponding SMILES notations.
+US20200040091A1,<PDF> Identify all chemical structures and output their SMILES representations.
+US20200078901A1,<PDF> Identify all chemical compounds present and provide their corresponding SMILES notations.
+US20200123456A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20200138969A1,<PDF> Locate all molecular structures in the file and convert them to SMILES notation.
+US20200138987A1,<PDF> Identify all chemical compounds present and represent them as SMILES strings.
+US20200230218A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+US20200254012A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20200254052A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US20200254088A1,Can you extract and list all the molecules from <PDF> as SMILES strings?
+US20210002359A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US20210002391A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US20210015847A1,<PDF> Identify all chemical compounds present and represent them as SMILES notations.
+US20210052321A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES representations.
+US20210077321A1,<PDF> Extract the SMILES strings for every chemical structure present in this file.
+US20210077345A1,"From the provided <PDF>, identify all chemical structures and output their SMILES notations."
+US20210123456A1,<PDF> Extract all chemical structures from this document and convert them into SMILES format.
+US20210228671A1,<PDF> Extract all chemical compounds present and provide their corresponding SMILES notations.
+US20220054321A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+US3210987B2,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+US3210987G1,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+US6543210A1,<PDF> Can you convert all molecular structures in this PDF to their corresponding SMILES strings?
+US6543210B1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US6543210E1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US7654321B2,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+US7654321D1,"From <PDF>, extract all chemical structures and provide their corresponding SMILES notations."
+US7890123B2,<PDF> Extract all chemical structures from this document and provide their SMILES representations.
+US8765432A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US8765432B1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+US8765432B2,Identify and extract all molecular structures from <PDF> in SMILES format.
+US8765432C1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+US8765432C2,<PDF> Identify all chemical structures and provide their SMILES notations.
+US8765432D1,<PDF> Extract all chemical structures from the document and provide their corresponding SMILES notations.
+US8901234F1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notation.
+US9874563B2,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+US9876543B2,<PDF> Locate all molecular structures in the file and convert them to SMILES notation.
+US9876543C1,Extract all molecular structures from the provided <PDF> and convert them into SMILES notation.
+US9876543D2,<PDF> Identify and extract all molecular structures in SMILES format.
+WO2010107569A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2010107569A2,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2013177228A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+WO2014144766A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2014151624A1,<PDF> Extract the SMILES strings for all chemical structures found in this document.
+WO2014159867A1,<PDF> Convert all molecular structures found in the document to SMILES format.
+WO2014160705A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+WO2014165136A1,<PDF> Extract all chemical structures from this document and convert them into SMILES notation.
+WO2014197632A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2014197643A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2015100345A1,<PDF> Extract all chemical structures from this document and convert them into SMILES format.
+WO2015100421A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+WO2015100423A1,<PDF> Extract all molecular structures from this document and provide their SMILES representations.
+WO2015100426A1,Identify all chemical structures in <PDF> and provide their SMILES representations.
+WO2015103456A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES strings.
+WO2015112602A1,Can you provide the SMILES strings for all chemical structures found in <PDF>?
+WO2015116723A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2015120074A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2015120123A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES representations."
+WO2015120234A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+WO2015120278A1,"From the given <PDF>, list all chemical structures and provide their corresponding SMILES representations."
+WO2015121234A1,Identify all molecular structures in <PDF> and convert them into SMILES notation.
+WO2015123210A1,<PDF> Find all molecular structures in the file and provide their corresponding SMILES representations.
+WO2015123367A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+WO2015123456A1,<PDF> Extract all chemical compounds from the PDF and provide their corresponding SMILES notation.
+WO2015123486A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+WO2015127235A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2015127236A1,<PDF> Extract all chemical structures from the document and provide their SMILES representations.
+WO2015161052A1,<PDF> Extract all chemical structures from the file and provide their corresponding SMILES notations.
+WO2015164521A1,<PDF> Identify all chemical structures and output their SMILES notations.
+WO2015168072A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2016011055A1,<PDF> Extract all chemical compounds from the text and provide their SMILES representations.
+WO2016014567A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+WO2016014569A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2016045678A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2016073456A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+WO2016106175A1,<PDF> Locate all molecular structures in the file and provide their SMILES representations.
+WO2016109532A1,<PDF> Extract all chemical compounds present in the file and provide their SMILES representations.
+WO2016154422A1,<PDF> Can you extract and list the SMILES strings for every chemical structure found in this file?
+WO2016172287A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+WO2016172589A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+WO2016176659A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+WO2016183175A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+WO2016187232A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2016187235A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+WO2016187236A1,Identify and convert all molecular structures in <PDF> to SMILES format.
+WO2016187238A1,<PDF> Identify all chemical structures and output their SMILES notations.
+WO2016191425A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+WO2017031234A1,"From the <PDF>, identify all molecular structures and provide their corresponding SMILES notations."
+WO2017040386A1,<PDF> Extract all chemical structures and provide their corresponding SMILES notations.
+WO2017040678A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES strings.
+WO2017040790A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES notations.
+WO2017040798A1,What SMILES strings correspond to the chemical structures in <PDF>?
+WO2017040821A1,<PDF> Find all molecular structures in the file and convert them into SMILES notation.
+WO2017044462A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES notations.
+WO2017044466A1,"<PDF> Identify and extract all chemical structures from this document, converting them to SMILES notation."
+WO2017044567A1,<PDF> Extract the SMILES representations of all chemical structures found in this document.
+WO2017062645A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+WO2017064321A1,Identify all chemical structures in <PDF> and provide their SMILES representations.
+WO2017066178A1,"From the provided <PDF>, identify all chemical structures and convert them to SMILES notation."
+WO2017066221A1,<PDF> List all chemical structures found in the document and provide their SMILES representations.
+WO2017066321A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+WO2017066482A1,"From the provided <PDF>, identify all molecular structures and convert them into SMILES format."
+WO2017066489A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+WO2017087563A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2017100123A1,<PDF> Identify all chemical compounds present and represent them as SMILES notations.
+WO2017105678A1,<PDF> Extract all chemical structures from the file and provide their corresponding SMILES notations.
+WO2017106023A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+WO2017117423A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+WO2017120123A1,<PDF> Identify all molecular structures and provide their corresponding SMILES strings.
+WO2017120456A1,<PDF> Extract all molecular structures from the document and convert them to SMILES notation.
+WO2017123456A1,Identify all chemical structures in the <PDF> and convert them to SMILES notation.
+WO2017127561A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+WO2017127568A1,<PDF> Can you convert all molecular structures in this file into SMILES strings?
+WO2017127754A1,Extract all chemical compounds from <PDF> and provide their SMILES representations.
+WO2017132309A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+WO2017136543A1,<PDF> Identify all chemical structures in this document and convert them to SMILES notation.
+WO2017136548A1,<PDF> Can you provide the SMILES strings for every chemical structure found in this file?
+WO2017151782A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2017151789A1,Identify all chemical structures in <PDF> and provide their corresponding SMILES representations.
+WO2017154321A1,Extract all molecular structures from the PDF <PDF> and provide their corresponding SMILES notations.
+WO2017156228A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES strings.
+WO2017156234A1,Identify and convert all molecular structures from <PDF> into SMILES notation.
+WO2017156253A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2017157654A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+WO2017157890A1,<PDF> Locate all chemical structures in the document and provide their corresponding SMILES representations.
+WO2017161116A1,<PDF> Extract all chemical compounds from the document and provide their SMILES representations.
+WO2017161178A1,"From the provided <PDF>, list all chemical structures and convert them into SMILES notation."
+WO2017161202A1,<PDF> Identify and extract all molecular structures in SMILES format.
+WO2017161206A1,Identify and convert all molecular structures from <PDF> into SMILES notation.
+WO2017161234A1,<PDF> List all chemical structures found in the document and provide their SMILES representations.
+WO2017165732A1,Identify and extract all molecular structures from <PDF> and provide their corresponding SMILES notations.
+WO2017165734A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+WO2017165738A1,<PDF> Extract all chemical compounds listed and represent them as SMILES notations.
+WO2017165834A1,<PDF> Find all chemical structures in the document and convert them to SMILES notation.
+WO2017165867A1,Can you extract all molecular structures from <PDF> and provide their corresponding SMILES strings?
+WO2017181132A1,Identify all chemical structures in <PDF> and provide their SMILES representations.
+WO2017184765A1,<PDF> Identify all chemical structures and output their SMILES notations.
+WO2017189765A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+WO2017192345A1,Can you list the SMILES strings for every chemical structure found in <PDF>?
+WO2017192587A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES representations."
+WO2017192780A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2017194567A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2017197023A1,<PDF> Identify all chemical compounds present and represent them as SMILES strings.
+WO2017201079A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+WO2017201089A1,<PDF> Extract all chemical structures present and represent them as SMILES notation.
+WO2017201234A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+WO2017205678A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES notations.
+WO2017210447A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2017234567A1,"From the provided <PDF>, identify all chemical structures and output their SMILES notations."
+WO2017456789A1,<PDF> Identify and convert all molecular entities into SMILES notation.
+WO2018005401A1,"From the provided <PDF>, identify and extract all molecular structures in SMILES format."
+WO2018009412A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+WO2018011234A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2018013852A1,Identify all chemical structures in <PDF> and output their corresponding SMILES representations.
+WO2018013892A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+WO2018015432A1,<PDF> Can you provide the SMILES strings for every chemical structure found in this file?
+WO2018017753A1,<PDF> Extract all chemical compounds present and provide their corresponding SMILES representations.
+WO2018017890A1,<PDF> Can you extract the SMILES strings for each compound in this file?
+WO2018022867A1,Identify all chemical compounds in <PDF> and represent them as SMILES notations.
+WO2018051234A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2018053270A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2018053276A1,<PDF> List all chemical structures in the document and provide their corresponding SMILES representations.
+WO2018053476A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2018056789A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notation.
+WO2018067812A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+WO2018106789A1,Extract all chemical compounds from <PDF> and provide their SMILES representations.
+WO2018119352A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2018119355A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2018123456A1,<PDF> Identify all chemical structures in the document and list their corresponding SMILES notations.
+WO2018125945A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2018127890A1,Identify all chemical compounds in <PDF> and represent them as SMILES strings.
+WO2018127896A1,<PDF> Extract all chemical structures from this document and provide their SMILES notations.
+WO2018129285A1,<PDF> Can you convert all chemical structures in this file into SMILES strings?
+WO2018129287A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2018129291A1,<PDF> Locate all molecular structures in the file and provide their corresponding SMILES representations.
+WO2018129326A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2018129356A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2018129357A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES representations.
+WO2018129358A1,<PDF> Can you list all the SMILES strings for the chemical structures found in this document?
+WO2018129375A1,<PDF> List all molecular structures found in the file and provide their corresponding SMILES representations.
+WO2018129385A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+WO2018129387A1,Identify all chemical structures in <PDF> and output their corresponding SMILES representations.
+WO2018129389A1,<PDF> Identify all chemical compounds present and represent them as SMILES notations.
+WO2018129395A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+WO2018136789A1,<PDF> Extract all chemical structures from the given document and provide their corresponding SMILES notations.
+WO2018144567A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2018154321A1,Extract all molecules from <PDF> and provide their corresponding SMILES strings.
+WO2018156421A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2018156789A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+WO2018175489A1,Identify all chemical structures in <PDF> and convert them into SMILES notation.
+WO2018175889A1,<PDF> Identify and extract all molecular structures in SMILES format.
+WO2018195385A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2018226789A1,<PDF> Identify all molecular structures and convert them to SMILES notation.
+WO2018234567A1,"From the provided <PDF>, identify all chemical structures and output their SMILES notations."
+WO2018765432A1,"From the provided <PDF>, identify all chemical structures and output their SMILES representations."
+WO2019012345A1,<PDF> List all chemical structures in the document as SMILES strings.
+WO2019014345A1,Review the provided <PDF> and extract SMILES representations for all chemical structures present.
+WO2019014567A1,<PDF> Extract all chemical structures from the file and provide their corresponding SMILES notations.
+WO2019060473A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+WO2019060543A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2019074882A1,<PDF> Can you list the SMILES strings for every chemical structure found in this file?
+WO2019079345A1,<PDF> Identify all chemical structures and provide their SMILES representations.
+WO2019101234A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+WO2019102345A1,<PDF> List all molecular structures found in the document and provide their corresponding SMILES representations.
+WO2019104075A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2019104125A1,Identify and convert all molecular structures in <PDF> to SMILES notation.
+WO2019108765A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+WO2019113456A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2019118526A1,<PDF> Identify all molecular structures and convert them to SMILES format.
+WO2019118532A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2019118765A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+WO2019118823A1,<PDF> Identify all molecules and provide their corresponding SMILES strings.
+WO2019118932A1,"From <PDF>, extract all chemical structures and provide their corresponding SMILES representations."
+WO2019118934A1,<PDF> Can you provide the SMILES strings for every chemical structure found in this file?
+WO2019123456A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2019133736A1,<PDF> Identify all chemical structures present and convert them into SMILES notation.
+WO2019133826A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+WO2019133829A1,"From the provided <PDF>, identify all chemical structures and output their SMILES notations."
+WO2019133865A1,<PDF> Find all molecular structures in the file and convert them into SMILES notation.
+WO2019136112A1,"From <PDF>, identify all chemical structures and provide their SMILES notations."
+WO2019136115A1,"<PDF> Identify and extract all molecular structures in the document, converting them to SMILES notation."
+WO2019136135A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2019136200A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES representations."
+WO2019136234A1,Identify all molecular structures in <PDF> and provide their SMILES representations.
+WO2019136235A1,Identify all chemical compounds in <PDF> and list their corresponding SMILES representations.
+WO2019136254A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES representations.
+WO2019136278A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+WO2019136288A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2019136335A1,<PDF> Can you list the SMILES strings for every chemical compound found in this file?
+WO2019136345A1,<PDF> List all chemical structures found in the file and provide their corresponding SMILES representations.
+WO2019136412A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+WO2019136415A1,"From the provided <PDF>, list all chemical structures and convert them into SMILES notation."
+WO2019136417A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+WO2019136418A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES strings.
+WO2019136437A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+WO2019137832A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2019139876A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2019139927A1,<PDF> Identify all chemical compounds present and provide their corresponding SMILES notations.
+WO2019139987A1,Identify all molecular structures in <PDF> and convert them to SMILES notation.
+WO2019140256A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES notations.
+WO2019140338A1,<PDF> Extract all molecular structures from this document and provide their SMILES representations.
+WO2019145678A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2019152345A1,<PDF> Extract all molecular structures from the document and provide their corresponding SMILES notations.
+WO2019152663A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2019156782A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+WO2019156789A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2019156982A1,<PDF> Identify all molecular structures in the document and provide their SMILES notations.
+WO2019156987A1,<PDF> Can you provide the SMILES strings for every chemical structure found in this file?
+WO2019157103A1,<PDF> Extract all chemical structures from the file and provide their corresponding SMILES notations.
+WO2019157215A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2019157234A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+WO2019157423A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2019164567A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2019167032A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2019168887A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2019213456A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+WO2019213476A1,<PDF> Identify and extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2019217412A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2019217413A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+WO2019217453A1,<PDF> Can you convert all chemical structures in this file to SMILES format?
+WO2019232145A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2019234567A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+WO2020010234A1,Identify and extract all molecular structures from <PDF> and provide their corresponding SMILES notations.
+WO2020010256A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2020012345A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES notations.
+WO2020014467A1,Identify and extract all molecular structures from <PDF> and convert them to SMILES notation.
+WO2020014567A1,<PDF> Convert all chemical structures in this file to their corresponding SMILES notation.
+WO2020018473A1,"From the provided <PDF>, list all molecular structures and convert them to SMILES notation."
+WO2020023456A1,Identify all chemical compounds in <PDF> and provide their corresponding SMILES notations.
+WO2020023567A1,<PDF> Extract all chemical structures from the document and provide their SMILES representations.
+WO2020033456A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+WO2020051234A1,<PDF> Extract SMILES strings for all chemical structures present in this document.
+WO2020051362A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+WO2020051423A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2020055678A1,<PDF> Extract all chemical compounds from the given file and provide their corresponding SMILES representations.
+WO2020055823A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2020055987A1,<PDF> List all the chemical structures in the document and provide their corresponding SMILES representations.
+WO2020056112A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+WO2020056789A1,<PDF> Can you convert each chemical structure in this file into its corresponding SMILES notation?
+WO2020072765A1,"From <PDF>, identify all chemical structures and provide their corresponding SMILES notations."
+WO2020072768A1,"From <PDF>, extract all chemical structures and provide their corresponding SMILES notation."
+WO2020072789A1,<PDF> Locate all chemical structures in the file and provide their corresponding SMILES representations.
+WO2020076789A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+WO2020098765A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2020102615A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+WO2020106789A1,Identify all chemical structures in the <PDF> and convert them to SMILES notation.
+WO2020106825A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2020112234A1,<PDF> Identify and extract all molecular structures in SMILES format.
+WO2020112345A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2020112921A1,<PDF> Identify and extract all molecular structures in the document as SMILES strings.
+WO2020112923A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2020112927A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2020112987A1,<PDF> Extract all chemical structures from the document and convert them into SMILES notation.
+WO2020113025A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2020113192A1,<PDF> Identify all molecular structures and provide their corresponding SMILES strings.
+WO2020115587A1,Identify all chemical structures in <PDF> and output their corresponding SMILES notations.
+WO2020117890A1,<PDF> Identify and extract all molecular structures in SMILES format.
+WO2020117978A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+WO2020117983A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2020118025A1,Identify all molecular structures in the <PDF> and provide their corresponding SMILES notations.
+WO2020118256A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES notations.
+WO2020119876A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2020123456A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2020123784A1,<PDF> Extract all chemical compounds from the PDF and provide their SMILES representations.
+WO2020139912A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2020139988A1,"From <PDF>, list all chemical structures and provide their corresponding SMILES representations."
+WO2020150321A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES notations.
+WO2020150341A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+WO2020150432A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2020154321A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2020159876A1,Identify all chemical compounds in <PDF> and convert them to SMILES notation.
+WO2020160219A1,<PDF> Extract all chemical structures from this document and convert them into SMILES notation.
+WO2020163501A1,<PDF> Identify and extract all molecular structures in SMILES format.
+WO2020172268A1,Identify all chemical structures in <PDF> and provide their SMILES notations.
+WO2020231987A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2020232145A1,<PDF> Identify all chemical structures in the document and convert them to SMILES notation.
+WO2020234567A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2020236789A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+WO2020252204A1,<PDF> Extract all chemical structures from this document and convert them to SMILES notation.
+WO2020252321A1,Can you extract and list the SMILES strings for every molecule found in <PDF>?
+WO2020765432A1,Identify all chemical structures in <PDF> and convert them to SMILES notation.
+WO2020987654A1,<PDF> Extract all chemical compounds and provide their corresponding SMILES notations.
+WO2021001234A1,"From the given <PDF>, extract all chemical structures and provide their corresponding SMILES notations."
+WO2021003245A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+WO2021007654A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES notations.
+WO2021011122A1,"From <PDF>, identify all chemical structures and provide their SMILES notations."
+WO2021011123A1,"From <PDF>, list all chemical structures found and provide their corresponding SMILES representations."
+WO2021011234A1,<PDF> Extract all chemical compounds from the file and provide their SMILES representations.
+WO2021011345A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2021011423A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES representations.
+WO2021011426A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+WO2021011507A1,<PDF> Extract all chemical structures from the given document and provide their corresponding SMILES notations.
+WO2021011532A1,Identify all molecular structures in <PDF> and provide their corresponding SMILES notations.
+WO2021011605A1,<PDF> Identify all chemical structures and output their SMILES notations.
+WO2021011789A1,<PDF> List all chemical structures found in the document and provide their corresponding SMILES representations.
+WO2021012345A1,Identify all chemical compounds in <PDF> and output their corresponding SMILES notations.
+WO2021014567A1,<PDF> Identify all chemical structures and convert them into SMILES notation.
+WO2021015678A1,<PDF> Extract all chemical compounds from the file and provide their corresponding SMILES notations.
+WO2021016332A1,<PDF> Extract all chemical compounds and represent them as SMILES notation.
+WO2021016417A1,<PDF> Extract all chemical structures from this document and provide their corresponding SMILES notations.
+WO2021021789A1,Identify all chemical structures in <PDF> and convert them into SMILES notation.
+WO2021021906A1,<PDF> Identify all chemical structures in this document and provide their corresponding SMILES notations.
+WO2021023456A1,Extract all molecular structures from <PDF> and provide their corresponding SMILES representations.
+WO2021034567A1,<PDF> Locate all chemical structures in the file and convert them to SMILES notation.
+WO2021045678A1,Extract all chemical compounds from <PDF> and provide their corresponding SMILES notations.
+WO2021056789A1,<PDF> List all chemical structures in the document and provide their corresponding SMILES representations.
+WO2021108765A1,<PDF> Identify and convert all molecular structures into SMILES notation.
+WO2021112223A1,<PDF> Extract all chemical structures from this document and convert them into SMILES notation.
+WO2021123456A1,<PDF> Identify all molecular structures and provide their corresponding SMILES notations.
+WO2021127890A1,Extract all chemical structures from <PDF> and provide their corresponding SMILES representations.
+WO2021223345A1,Identify and extract all molecular structures from <PDF> and provide their SMILES representations.
+WO2022005678A1,Can you extract and list the SMILES strings for every molecule found in this <PDF> document?
